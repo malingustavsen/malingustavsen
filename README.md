@@ -17,3 +17,10 @@
 ## About me  
 I am passionate about the intersection of technology, design, and people.  
 Currently developing my skills as a full-stack developer, with a focus on creating user-friendly digital solutions.  
+
+---
+
+## Contact me  
+
+📫 [Email](mailto:malin.gustavsen@hotmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/malin-gustavsen-198592233)  
